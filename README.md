@@ -1,4 +1,4 @@
-![Vaelor Banner](./Untitled%20design%20%281%29.png)
+![Vaelor Banner](./banner2.png)
 
 # Hi, I'm Tiara 👋
 
