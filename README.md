@@ -1,4 +1,4 @@
-![Vaelor Banner](./banner2.png)
+<img src="./banner2.png" width="800"/>
 
 # Hi, I'm Tiara 👋
 
