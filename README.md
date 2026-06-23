@@ -1,4 +1,4 @@
-<img src="./banner2.png" width="800"/>
+<img src="./banner2.png" width="600"/>
 
 # Hi, I'm Tiara 👋
 
