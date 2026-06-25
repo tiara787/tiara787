@@ -1,4 +1,3 @@
-<img src="./awesomeBanner.png" width="600"/>
 
 # Hi, I'm Tiara 👋
 
